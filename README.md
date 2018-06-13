@@ -3,6 +3,7 @@
 ## 기술 조사
 
 - [Vue.js 살펴보기](http://blog.jeonghwan.net/vue/2017/03/27/vue.html)
+- [자바스크립트 프레임워크 소개 3 - Vue.js](http://meetup.toast.com/posts/99)
 - [GitLab은 왜 Vue.js를 선택했나](https://taegon.kim/archives/6690)
 - [React 인가 Vue 인가?](https://joshua1988.github.io/web_dev/vue-or-react/)
 - [Vue 공홈 다른 프레임워크와의 비교](https://kr.vuejs.org/v2/guide/comparison.html)
