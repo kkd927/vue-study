@@ -12,7 +12,7 @@
 ## 읽을만한 링크+
 
 - [GitLab은 Vue를 어떻게 사용하는가: 일 년 후](https://taegon.kim/archives/6698)
-- [GitLanb Vue 스타일 가이드](https://docs.gitlab.com/ee/development/fe_guide/vue.html)
+- [GitLanb Vue Dev 가이드](https://docs.gitlab.com/ee/development/fe_guide/)
 - [Vue UI 컴포넌트 확장](http://blog.jeonghwan.net/2018/05/12/extended-component.html)
 - [Vue 공식 스타일 가이드](https://kr.vuejs.org/v2/style-guide/)
 - [배민찬은 Vue를 어떻게 사용하나요?](http://woowabros.github.io/experience/2018/06/07/vue-story-of-baminchan.html)
